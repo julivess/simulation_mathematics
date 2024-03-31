@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\79960\source\repos\sum_school\sum_school\Source.cpp(68,65): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\79960\source\repos\sum_school\sum_school\Source.cpp(86,9): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  sum_school.vcxproj -> C:\Users\79960\source\repos\sum_school\x64\Debug\sum_school.exe
